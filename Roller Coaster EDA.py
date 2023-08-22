@@ -21,7 +21,7 @@ plt.style.available
 # In[8]:
 
 
-df = pd.read_csv(r'C:\Users\Ridhi Gohil\Downloads\coaster_db.csv')
+df = pd.read_csv(r'\coaster_db.csv')
 df
 
 
